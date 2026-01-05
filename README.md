@@ -1,11 +1,29 @@
-- 👋 Hi, I’m @sujanghimire22
-- 👀 I’m interested in Sleeping
-- 🌱 I’m currently learning chilling
-- 💞️ I’m looking to collaborate on Guinness World Record 
-- 📫 How to reach me sujan.ghimire22(Insta)
-- IT Professional | Computer Systems Engineering Graduate (University of Sunderland) | Cyber Security Enthusiast
+# Hi, I'm Sujan Ghimire 👋
 
-<!---
-sujanghimire22/sujanghimire22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Computer Systems Engineering Graduate (University of Sunderland)  
+💻 IT Professional | Cyber Security Enthusiast  
+
+## 🚀 About Me
+- Passionate about IT infrastructure, security, and problem-solving
+- Currently learning Cyber Security & ethical hacking
+- Interested in real-world security projects and research
+
+## 🛠️ Tech Stack
+- Languages: Python, Java, PHP
+- Web: HTML, CSS, JavaScript
+- Databases: MySQL, Firebase
+- Tools: Git, GitHub, Linux
+
+## 📌 Projects
+- 🔐 **Air Pollution Detection using CNN (Python)**
+- 📱 **Journey Journal App (Java + Firebase)**
+- 🌐 **E-commerce Website (Laravel)**
+
+## 🌱 Currently Learning
+- Cyber Security fundamentals
+- Network security
+- Linux & scripting
+
+## 📫 Connect with Me
+- 🌐 Website: https://www.sujanghimirey.com.np
+- 📸 Instagram: @sujan.ghimire22
