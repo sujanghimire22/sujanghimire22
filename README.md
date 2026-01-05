@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @sujanghimire22
 - 👀 I’m interested in Sleeping
-- - 🌱 I’m currently learning chilling
+- 🌱 I’m currently learning chilling
 - 💞️ I’m looking to collaborate on Guinness World Record 
 - 📫 How to reach me sujan.ghimire22(Insta)
+- IT Professional | Computer Systems Engineering Graduate (University of Sunderland) | Cyber Security Enthusiast
 
 <!---
 sujanghimire22/sujanghimire22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
